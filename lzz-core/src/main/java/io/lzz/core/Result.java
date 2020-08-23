@@ -1,5 +1,5 @@
 /*
- * Copyright [2020] [lzz.io, q1219331697]
+ * Copyright 2020 lzz.io,q1219331697
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
